@@ -12,7 +12,7 @@ function Contact() {
      
     
         <div className="lg:w-1/2 px-6 mt-4 lg:mt-0 bg-gray-900 rounded-lg p-5">
-        <h1 className='text-4xl font-serif'>LET'S CONNECT</h1><br/>
+        <h1 className='text-4xl font-serif'>LETS CONNECT</h1><br/>
         <p>Send me a message by submitting the from.</p><br/>
           <h2 className="font-sans  font-bold text-white tracking-widest text-xl">
             EMAIL
@@ -32,7 +32,7 @@ function Contact() {
         Contact Me
       </h2>
       <p className="leading-relaxed mb-5 text-white">
-    Feel Free Contact
+    Feel Free to Contact
       </p>
       <div className="relative mb-4">
         <label htmlFor="name" className="leading-7 text-sm text-white">
