@@ -19,7 +19,7 @@ function Page() {
     <div className="flex flex-wrap m-5 mt-8">
         {/*project*/}
       <div className="lg:w-1/3 sm:w-1/2  p-4">
-        <div className="flex relative">
+              <div className="flex relative">
           <Image
             alt="gallery"
             className="absolute inset-0  object-cover object-center cursor-pointer border-4  border-orange-200"

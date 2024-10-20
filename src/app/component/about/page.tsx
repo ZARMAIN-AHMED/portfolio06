@@ -15,7 +15,7 @@ function ABOUT() {
         src={'/hijabi.png'}
         height={400}
         width={400}
-        
+      
       />
    
     </div>
