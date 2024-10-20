@@ -22,7 +22,7 @@ function Contact() {
             PHONE
           </h2>
           <p className="leading-relaxed text-xl ">03158637554</p><br/>
-          <span className=' font-bold'>I HOPE YOU LIKE MY PORTFOLIO WEBSITE.<br/>
+          <span className=" font-bold">I HOPE YOU LIKE MY PORTFOLIO WEBSITE.<br/>
             THANKS FOR VISITING MY WEBSITE🥰.</span>
         </div>
       </div>

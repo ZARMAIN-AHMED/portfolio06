@@ -12,7 +12,7 @@ function ABOUT() {
     <Image
         className="object-cover object-center rounded-full border-3 border-stone-400 ml-24 shadow-orange-500 shadow-2xl "
         alt="hero"
-        src={'/hijabi.png'}
+        src={"/hijabi.png"}
         height={400}
         width={400}
       
@@ -24,7 +24,7 @@ function ABOUT() {
         About Me
         <br/>
       </h1>
-      <h2 className='text-3xl font-bold text-orange-300'>I'm Zarmain Ahmed | Enthusiastic Frontend Student at GIAIC, Exploring Web Development</h2><br/>
+      <h2 className="text-3xl font-bold text-orange-300">I'm Zarmain Ahmed | Enthusiastic Frontend Student at GIAIC, Exploring Web Development</h2><br/>
       <p className="mb-8 leading-relaxed">
       A passionate frontend development student at GIAIC. I've learned HTML, CSS, JavaScript, and 
       Tailwind CSS, building several impressive projects.
@@ -51,7 +51,7 @@ function ABOUT() {
   
 
           Download CV
-      <AiOutlineCloudDownload className='text-2xl ml-2' />
+      <AiOutlineCloudDownload className="text-2xl ml-2" />
 
     </button></a>
       </div>
