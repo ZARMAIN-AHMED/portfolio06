@@ -17,11 +17,11 @@ function Contact() {
           <h2 className="font-sans  font-bold text-white tracking-widest text-xl">
             EMAIL
           </h2>
-          <a className="text-white leading-relaxed text-xl">nazzshagufta604@gmail.com</a>
+          <a className="text-white leading-relaxed text-xl">kkkkk45@gmail.com</a>
           <h2 className="font-sans font-bold text-white tracking-widest text-xl mt-4">
             PHONE
           </h2>
-          <p className="leading-relaxed text-xl ">03158637554</p><br/>
+          <p className="leading-relaxed text-xl ">037905325897</p><br/>
           <span className=" font-bold">I HOPE YOU LIKE MY PORTFOLIO WEBSITE.<br/>
             THANKS FOR VISITING MY WEBSITE🥰.</span>
         </div>
