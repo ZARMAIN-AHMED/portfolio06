@@ -1,5 +1,5 @@
 
-import React from 'react'
+import React from 'react';
 
 
 function Contact() {
@@ -12,16 +12,16 @@ function Contact() {
      
     
         <div className="lg:w-1/2 px-6 mt-4 lg:mt-0 bg-gray-900 rounded-lg p-5">
-        <h1 className='text-4xl font-serif'>LET'S CONNECT</h1><br/>
+        <h1 className='text-4xl font-serif'>LETS CONNECT</h1><br/>
         <p>Send me a message by submitting the from.</p><br/>
           <h2 className="font-sans  font-bold text-white tracking-widest text-xl">
             EMAIL
           </h2>
-          <a className="text-white leading-relaxed text-xl">nazzshagufta604@gmail.com</a>
+          <a className="text-white leading-relaxed text-xl">kkkk45@gmail.com</a>
           <h2 className="font-sans font-bold text-white tracking-widest text-xl mt-4">
             PHONE
           </h2>
-          <p className="leading-relaxed text-xl ">03158637554</p><br/>
+          <p className="leading-relaxed text-xl ">03837563822</p><br/>
           <span className=" font-bold">I HOPE YOU LIKE MY PORTFOLIO WEBSITE.<br/>
             THANKS FOR VISITING MY WEBSITE🥰.</span>
         </div>
@@ -32,7 +32,7 @@ function Contact() {
         Contact Me
       </h2>
       <p className="leading-relaxed mb-5 text-white">
-    Feel Free Contact
+    Feel Free to Contact
       </p>
       <div className="relative mb-4">
         <label htmlFor="name" className="leading-7 text-sm text-white">

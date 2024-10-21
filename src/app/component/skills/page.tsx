@@ -98,10 +98,10 @@ function Skills() {
 
           </div>
           <div className="flex-grow">
-            <div className='relative h-1 w-full bg-white rounded-xl'>
-                <div className='absolute bg-orange-500 h-1 rounded-xl w-[95%]'></div>
+            <div className="relative h-1 w-full bg-white rounded-xl">
+                <div className="absolute bg-orange-500 h-1 rounded-xl w-[95%]"></div>
             </div>
-            <p className='font-bold text-orange-500 text-right'>95%</p>
+            <p className="font-bold text-orange-500 text-right">95%</p>
           </div>
         </div>
       </div>
@@ -111,7 +111,7 @@ function Skills() {
         <div className="flex rounded-lg h-full bg-gray-900 p-8 flex-col">
           <div className="flex items-center mb-3">
             <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-orange-500 text-white flex-shrink-0">
-            < AiOutlineCheckCircle  className='text-2xl font-bold'/>
+            < AiOutlineCheckCircle  className="text-2xl font-bold"/>
             </div>
             <h2 className="text-white text-lg title-font font-medium">
             NEXT.JS
@@ -120,10 +120,10 @@ function Skills() {
 
           </div>
           <div className="flex-grow">
-            <div className='relative h-1 w-full bg-white rounded-xl'>
+            <div className="relative h-1 w-full bg-white rounded-xl">
                 <div className='absolute bg-orange-500 h-1 rounded-xl w-[70%]'></div>
             </div>
-            <p className='font-bold text-orange-500 text-right'>70%</p>
+            <p className="font-bold text-orange-500 text-right">70%</p>
           </div>
         </div>
       </div>
@@ -131,18 +131,18 @@ function Skills() {
         <div className="flex rounded-lg h-full bg-gray-900 p-8 flex-col">
           <div className="flex items-center mb-3">
             <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-orange-500 text-white flex-shrink-0">
-            < AiOutlineCheckCircle  className='text-2xl font-bold'/>
+            < AiOutlineCheckCircle  className="text-2xl font-bold"/>
             </div>
             <h2 className="text-white text-lg title-font font-medium">
             TAILWIND CSS
             </h2>
-            <div className='text-5xl pl-64'><RiTailwindCssFill /> </div>
+            <div className="text-5xl pl-64"><RiTailwindCssFill /> </div>
           </div>
           <div className="flex-grow">
-            <div className='relative h-1 w-full bg-white rounded-xl'>
-                <div className='absolute bg-orange-500 h-1 rounded-xl w-[90%]'></div>
+            <div className="relative h-1 w-full bg-white rounded-xl">
+                <div className="absolute bg-orange-500 h-1 rounded-xl w-[90%]"></div>
             </div>
-            <p className='font-bold text-orange-500 text-right'>90%</p>
+            <p className="font-bold text-orange-500 text-right">90%</p>
           </div>
         </div>
       </div>

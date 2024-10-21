@@ -68,7 +68,7 @@ function Page() {
       <div className="lg:w-1/3 sm:w-1/2  p-4">
         <div className="flex relative">
           <Image
-            alt="gallery"
+            alt="pic"
             className="absolute inset-0  object-cover object-center cursor-pointer border-4  border-orange-200"
             src={"/resume.png"}
             height={500}

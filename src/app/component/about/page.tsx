@@ -24,13 +24,13 @@ function ABOUT() {
         About Me
         <br/>
       </h1>
-      <h2 className="text-3xl font-bold text-orange-300">I'm Zarmain Ahmed | Enthusiastic Frontend Student at GIAIC, Exploring Web Development</h2><br/>
+      <h2 className="text-3xl font-bold text-orange-300">I am Zarmain Ahmed | Enthusiastic Frontend Student at GIAIC, Exploring Web Development</h2><br/>
       <p className="mb-8 leading-relaxed">
-      A passionate frontend development student at GIAIC. I've learned HTML, CSS, JavaScript, and 
+      A passionate frontend development student at GIAIC. I have learned HTML, CSS, JavaScript, and 
       Tailwind CSS, building several impressive projects.
-       I've also participated in a hackathon, honing my skills further.
+       I have also participated in a hackathon, honing my skills further.
         Though my course covers IT,
-       starting with full-stack and later advancing to AI, I'm currently 
+       starting with full-stack and later advancing to AI, I am currently 
        focused on mastering frontend technologies, preparing for more complex
         AI topics in the future.
 
@@ -46,7 +46,7 @@ function ABOUT() {
         </button>
         </Link>
 
-        <a href='/myCV.pdf'>
+        <a href='/zari.pdf'>
         <button className="ml-4 inline-flex text-white font-bold bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-orange-500 rounded text-lg">
   
 
