@@ -25,7 +25,7 @@ function Navbar() {
       <Link href={'/component/skills'}    className="mr-5 hover:text-orange-500 text-2xl font-bold">Skill</Link>
       <Link href={'/component/contact'} className="mr-5 hover:text-orange-500 text-2xl font-bold">Contact</Link>
     </div>
-    <a href='/myCV.pdf'>
+    <a href='/zari.pdf'>
     <button className="inline-flex items-center bg-orange-500 border-0 py-1 px-3 focus:outline-none hover:bg-amber-600
      rounded text-base mt-4 md:mt-0 font-bold">
       
