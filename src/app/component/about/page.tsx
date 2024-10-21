@@ -41,7 +41,7 @@ function ABOUT() {
                 </button>
               </Link>
 
-              <a href='/myCV.pdf' target="_blank" rel="noopener noreferrer">
+              <a href='/zari.pdf' target="_blank" rel="noopener noreferrer">
                 <button className="ml-4 inline-flex text-white font-bold bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-orange-500 rounded text-lg">
                   Download CV
                   <AiOutlineCloudDownload className="text-2xl ml-2" />
