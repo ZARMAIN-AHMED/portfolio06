@@ -1,10 +1,9 @@
 
-import Link from 'next/link';
+
 import react from 'react';
 
 
 
-import React from 'react'
 import Image from 'next/image';
 
 import { AiFillGithub } from "react-icons/ai";
