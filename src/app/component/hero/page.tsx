@@ -37,13 +37,12 @@ function Hero() {
         </button>
         </Link>
         <a href='/zari.pdf'>
-        <button className="ml-4 inline-flex text-white font-bold bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-orange-500 rounded text-lg">
-  
+  <button className="ml-4 inline-flex items-center justify-center text-white font-bold bg-gray-600 border-0 py-2  px-4 sm:px-6 focus:outline-none hover:bg-orange-500 rounded text-lg sm:text-xl">
+    Download CV
+    <AiOutlineCloudDownload className='text-xl sm:text-2xl ml-2' />
+  </button>
+</a>
 
-          Download CV
-      <AiOutlineCloudDownload className='text-2xl ml-2 ' />
-
-    </button></a>
     <a  href='https://github.com/ZARMAIN-AHMED' className="text-white">
     <AiFillGithub  className='text-4xl ml-7'/>
       </a>
